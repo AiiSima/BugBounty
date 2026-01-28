@@ -31,11 +31,18 @@ A comprehensive bug bounty automation tool for penetration testers and security 
 - Markdown documentation
 - Customizable templates
 
+## 🌟 If you like my project, don't forget to give me a bin
+
 ## Installation
 
 ### Termux
 ```bash
-pkg install git php curl wget
-git clone --depth=1 https://github.com/AiiSima/BugBounty.git
-cd BugBounty
-bash quantum.sh
+$ pkg install git php curl wget
+$ git clone --depth=1 https://github.com/AiiSima/BugBounty.git
+$ cd BugBounty
+$ bash quantum.sh
+```
+![Telegram]
+(t.me/AiiSimaRajaIblis 
+![Youtube]
+(https://www.youtube.com/@simaV1-9)
