@@ -72,9 +72,6 @@ Support <b>All features are responsive (mobile & desktop)</b>.
 <h2 align="center">Our Social Media 💻</h2>
 <p align="center"><b>Don't use the Issues tab to ask questions!</b></p>
 
-<h2 align="center">Our Social Media 💻</h2>
-<p align="center"><b>Don't use the Issues tab to ask questions!</b></p>
-
 <p align="center">
   <a href="https://github.com/AiiSima" target="_blank">
     <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002953.png" width="40" alt="GitHub">
