@@ -1,6 +1,6 @@
 # BugBounty - quantum v1.0
 
-![Banner](banner.png)
+![Banner]([banner.png](https://github.com/AiiSima/BugBounty/tree/main/assets))
 
 A comprehensive bug bounty automation tool for penetration testers and security researchers. Built with Bash scripting for Termux and Linux systems.
 
