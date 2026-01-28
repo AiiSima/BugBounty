@@ -2,11 +2,11 @@
 <h5 align="center">(Programming Language - Shell & Py & Html)</h5>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/badge/Stars-10k-8B5CF6">
-  <img alt="Works" src="https://img.shields.io/badge/Works-10k-10B981">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
-  <img alt="Shell" src="https://img.shields.io/badge/With-Shell-3B82F6">
-  <img alt="BugBounty" src="https://img.shields.io/badge/BugBounty-Quantum-EF4444">
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-18, 829-374151?logo=github&logoColor=white">
+  <img alt="Works" src="https://img.shields.io/badge/Works-10,829-4B5563?logo=github&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-6B7280?logo=github&logoColor=white">
+  <img alt="Shell" src="https://img.shields.io/badge/With-Shell-9CA3AF?logo=github&logoColor=black">
+  <img alt="BugBounty" src="https://img.shields.io/badge/BugBounty-Quantum-D1D5DB?logo=github&logoColor=black">
 </p>
 
 <p align="center">Please Use Wisely!</p>
