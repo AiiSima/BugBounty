@@ -2,11 +2,11 @@
 <h5 align="center">(Programming Language - Shell & Py & Html)</h5>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/badge/dynamic/json?color=8B5CF6&label=Stars&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNaereen%2FStrapdown.js">
-  <img alt="Works" src="https://img.shields.io/badge/dynamic/json?color=10B981&label=Forks&query=forks_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNaereen%2FStrapdown.js">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B.svg">
-  <img alt="Shell" src="https://img.shields.io/badge/Made%20With-Shell-3B82F6.svg">
-  <img alt="BugBounty" src="https://img.shields.io/badge/Bug%20Bounty-Quantum-EF4444.svg">
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-10k%20Me-8B5CF6">
+  <img alt="Works" src="https://img.shields.io/badge/Works-10k%20Text-10B981">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT%20License-F59E0B">
+  <img alt="Shell" src="https://img.shields.io/badge/With-Shell%20Tech-3B82F6">
+  <img alt="BugBounty" src="https://img.shields.io/badge/BugBounty-Quantum%20Label-EF4444">
 </p>
 
 <p align="center">Please Use Wisely!</p>
