@@ -5,7 +5,7 @@
   <img alt="stars" src="https://badgen.net/github/stars/Naereen/Strapdown.js">
   <img alt="forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js">
   <img alt="license" src="https://badgen.net/github/license/Naereen/Strapdown.js">
-  <img alt="js" src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg">
+  <img alt="js" src="https://img.shields.io/badge/Made%20with-Shell-1f425f.svg">
 </p>
 
 <p align="center">Please Use Wisely!</p>
