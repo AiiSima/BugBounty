@@ -72,17 +72,20 @@ Support <b>All features are responsive (mobile & desktop)</b>.
 <h2 align="center">Our Social Media 💻</h2>
 <p align="center"><b>Don't use the Issues tab to ask questions!</b></p>
 
+<h2 align="center">Our Social Media 💻</h2>
+<p align="center"><b>Don't use the Issues tab to ask questions!</b></p>
+
 <p align="center">
   <a href="https://github.com/AiiSima" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002953.png" width="40" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/AiiSimaRajaIblis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" alt="Telegram">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002805.png" width="40" alt="Telegram">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@simaV1-9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" alt="YouTube">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002719.png" width="40" alt="YouTube">
   </a>
 </p>
 
