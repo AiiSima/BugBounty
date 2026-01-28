@@ -2,10 +2,11 @@
 <h5 align="center">(Programming Language - Shell & Py & Html)</h5>
 
 <p align="center">
-  <img alt="stars" src="https://badgen.net/github/stars/Naereen/Strapdown.js">
-  <img alt="forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js">
-  <img alt="license" src="https://badgen.net/github/license/Naereen/Strapdown.js">
-  <img alt="js" src="https://img.shields.io/badge/Made%20with-Shell-1f425f.svg">
+  <img alt="Stars" src="https://img.shields.io/badge/dynamic/json?color=8B5CF6&label=Stars&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNaereen%2FStrapdown.js">
+  <img alt="Works" src="https://img.shields.io/badge/dynamic/json?color=10B981&label=Forks&query=forks_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNaereen%2FStrapdown.js">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B.svg">
+  <img alt="Shell" src="https://img.shields.io/badge/Made%20With-Shell-3B82F6.svg">
+  <img alt="BugBounty" src="https://img.shields.io/badge/Bug%20Bounty-Quantum-EF4444.svg">
 </p>
 
 <p align="center">Please Use Wisely!</p>
